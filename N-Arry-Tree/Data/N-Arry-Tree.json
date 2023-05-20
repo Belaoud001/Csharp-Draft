@@ -1,0 +1,118 @@
+{
+  "Id": "ca92308d-ba9d-46ac-81c7-b85db35e65f4",
+  "Name": "Upper Node",
+  "SubNodes": [
+    {
+      "Id": "70ef86ec-762f-416a-9ca4-71c7a01db307",
+      "Name": "A",
+      "SubNodes": [
+        {
+          "Id": "8fe849fb-90f6-4f21-a560-3ab79bd2770b",
+          "Name": "SA1",
+          "SubNodes": [],
+          "Tags": []
+        },
+        {
+          "Id": "1652eacb-696d-4b40-905e-18b99393bfd7",
+          "Name": "SA2",
+          "SubNodes": [],
+          "Tags": []
+        },
+        {
+          "Id": "38a6857e-fb7c-4efb-b5cb-d9bc5dc88933",
+          "Name": "SA3",
+          "SubNodes": [],
+          "Tags": []
+        }
+      ],
+      "Tags": [
+        {
+          "Name": "a-1"
+        },
+        {
+          "Name": "a-2"
+        },
+        {
+          "Name": "a-3"
+        }
+      ]
+    },
+    {
+      "Id": "51e22f56-cb49-46e1-ae0b-ab9f4598d7ca",
+      "Name": "B",
+      "SubNodes": [
+        {
+          "Id": "0c097a18-024d-407c-b5b6-56381c2b5b46",
+          "Name": "SB1",
+          "SubNodes": [],
+          "Tags": []
+        },
+        {
+          "Id": "5d46ab33-c510-4f8f-a5a0-ee6d330dd214",
+          "Name": "SB2",
+          "SubNodes": [],
+          "Tags": []
+        },
+        {
+          "Id": "cb8527c2-0ad1-47d3-bc9c-ed4b527bb76a",
+          "Name": "SB3",
+          "SubNodes": [],
+          "Tags": []
+        }
+      ],
+      "Tags": [
+        {
+          "Name": "b-1"
+        },
+        {
+          "Name": "b-2"
+        },
+        {
+          "Name": "b-3"
+        }
+      ]
+    },
+    {
+      "Id": "51e22f56-cb49-46e1-ae0b-ab9f4598d7c4",
+      "Name": "C",
+      "SubNodes": [
+        {
+          "Id": "c89370ab-aeba-444c-bf14-347dcf574a9c",
+          "Name": "SC1",
+          "SubNodes": [],
+          "Tags": [{
+            "Name": "sc-1"
+          },
+            {
+              "Name": "sc-2"
+            },
+            {
+              "Name": "sc-3"
+            }]
+        }
+      ],
+      "Tags": [
+        {
+          "Name": "c-1"
+        },
+        {
+          "Name": "c-2"
+        },
+        {
+          "Name": "c-3"
+        }
+      ]
+    }
+  ],
+  "Tags": [
+    {
+      "Name": "upper-node-1"
+    },
+    {
+      "Name": "upper-node-2"
+    },
+    {
+      "Name": "upper-node-3"
+    }
+  ]
+}
